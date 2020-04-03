@@ -1,0 +1,53 @@
+.btn-outline-dark {
+	border-color: #FFF;
+	color: #FFF;
+}
+.btn-outline-dark:hover {
+	border-color: #343a40;	
+}
+body{
+  background: url("../media/Back1.jpg") no-repeat center center fixed;
+    background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+}
+@font-face{
+  font-family:'LOGO2';
+  src: url('../fonts/LOGO2.ttf') format('truetype');
+}
+#LogoX{
+  font-family: LOGO2;
+  font-size: 25px;
+}
+#Form1{
+  background: #17A2B877;
+  padding-bottom: 83px;
+}
+#Form2{
+  background: #17A2B877;
+  padding-bottom: 160px;
+}
+#NAVX{
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+}
+#NAVX3{
+  padding-top: 1.5em;
+  padding-bottom: 1em;
+  padding-left: 5em;
+  padding-right: 5em;
+  margin-top: 1px;
+  
+}
+#NAVX2{
+  margin-bottom: 100px;
+}
+#BUTX{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 1em;
+  padding-left: 1em;
+}
